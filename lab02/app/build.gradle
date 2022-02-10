@@ -34,9 +34,6 @@ dependencies {
 
     //Apache Commons CSV
     implementation 'org.apache.commons:commons-csv:1.9.0'
-
-    api 'org.apache.httpcomponents:httpclient:4.5.7'
-    implementation 'org.apache.commons:commons-lang3:3.5'
 }
 
 application {
